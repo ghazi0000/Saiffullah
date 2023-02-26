@@ -20,4 +20,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghazi0000&show_icons=true&locale=en" alt="ghazi0000" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghazi0000&" alt="ghazi0000" /></p>
+<p><img align="center" src="https://github-readme-stre![istockphoto-1141180943-1024x1024](https://user-images.githubusercontent.com/126403321/221423800-a26f2c22-067f-44d8-a32e-a8ffae40af07.jpg)
+ak-stats.herokuapp.com/?user=ghazi0000&" alt="ghazi0000" /></p>
